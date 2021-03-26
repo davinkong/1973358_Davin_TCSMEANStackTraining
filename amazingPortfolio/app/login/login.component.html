@@ -1,0 +1,13 @@
+<div>
+    <h2>Login Page</h2>
+    <form #getRef="ngForm" (ngSubmit)="checkLogin(getRef.value)" class="form-group">
+        <label>UserName</label>
+        <input type="text" name="user" ngModel /><br/>
+        <label>Password</label>
+        <input type="password" name="pass" ngModel /><br/>
+        <input type="submit" value="Login"/><br/>
+        <input type="button" value="Register" class="btn btn-light btn-primary-spacing" (click)= "Reg()"/>
+    
+    </form>
+
+</div>
