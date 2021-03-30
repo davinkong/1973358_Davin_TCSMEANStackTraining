@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+    
+}
+hr{
+    border: solid black 9px;
+    border-style: dotted;
+}

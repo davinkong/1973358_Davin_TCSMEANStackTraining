@@ -1,0 +1,23 @@
+tr{
+  
+    border: solid orangered;
+    
+}
+h2{
+    text-align: center;
+    color: navy;
+}
+hr{
+    border: solid black 9px;
+    border-style: dotted;
+}
+button{
+    background-color: purple;
+    color: white
+}
+th,td{
+    text-align: center;
+}
+form{
+    margin-left: 45%;
+}
