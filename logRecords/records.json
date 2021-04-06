@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "firstName": "Liza",
+      "lastName": "l",
+      "gender": "Female",
+      "email": "liza@l.com",
+      "displayTime": "04/05/2021 at 22:54"
+    },
+    {
+      "firstName": "Luffy",
+      "lastName": "M",
+      "gender": "Male",
+      "email": "Luffy@M.com",
+      "displayTime": "04/05/2021 at 22:56"
+    }
+  ]
+}
